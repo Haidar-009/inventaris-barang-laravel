@@ -1,3 +1,5 @@
+<div align="center">
+
 # 📦 Inventory Management System - Laravel
 
 [![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel)](https://laravel.com)
@@ -84,3 +86,5 @@ Haidar – RPL Student @SMK Negeri 2 Indramayu
 "Coding is not just about writing code, it's about solving problems."
 
 If you find this project useful, give it a ⭐!
+
+</div>
