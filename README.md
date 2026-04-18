@@ -8,6 +8,8 @@
 
 Sistem manajemen inventaris barang yang dirancang khusus untuk efisiensi pencatatan stok, pengelolaan kategori, dan pemantauan aset secara _real-time_. Proyek ini dibangun sebagai implementasi nyata dari pembelajaran **Rekayasa Perangkat Lunak (RPL)** di SMK.
 
+</div>
+
 ## 🚀 Fitur Utama
 
 - **Manajemen Barang (CRUD):** Tambah, edit, dan hapus barang dengan alur yang mudah.
@@ -86,5 +88,3 @@ Haidar – RPL Student @SMK Negeri 2 Indramayu
 "Coding is not just about writing code, it's about solving problems."
 
 If you find this project useful, give it a ⭐!
-
-</div>
