@@ -29,6 +29,7 @@ Sistem manajemen inventaris barang yang dirancang khusus untuk efisiensi pencata
 
 **Haidar** – _SMK Student | RPL Major_
 _Passionately building software solutions._
+"Coding is not just about writing code, it's about solving problems."
 
 ---
 
@@ -76,15 +77,12 @@ Jika kamu ingin menjalankan atau mengembangkan proyek ini di komputermu:
     php artisan serve
     ```
 
-saran Roadmap Pengembangan :
+## 🚀saran Roadmap Pengembangan :
+
 [ ] Fitur Cetak Laporan (PDF/Excel)
 
 [ ] Integrasi Upload Foto Barang
 
 [ ] Dashboard Statistik (Chart)
-
-👨‍💻 Author
-Haidar – RPL Student @SMK Negeri 2 Indramayu
-"Coding is not just about writing code, it's about solving problems."
 
 If you find this project useful, give it a ⭐!
