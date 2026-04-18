@@ -1,5 +1,9 @@
 # 📦 Inventory Management System - Laravel
 
+[![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel)](https://laravel.com)
+[![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 Sistem manajemen inventaris barang yang dirancang khusus untuk efisiensi pencatatan stok, pengelolaan kategori, dan pemantauan aset secara _real-time_. Proyek ini dibangun sebagai implementasi nyata dari pembelajaran **Rekayasa Perangkat Lunak (RPL)** di SMK.
 
 ## 🚀 Fitur Utama
@@ -67,3 +71,16 @@ Jika kamu ingin menjalankan atau mengembangkan proyek ini di komputermu:
     ```bash
     php artisan serve
     ```
+
+saran Roadmap Pengembangan :
+[ ] Fitur Cetak Laporan (PDF/Excel)
+
+[ ] Integrasi Upload Foto Barang
+
+[ ] Dashboard Statistik (Chart)
+
+👨‍💻 Author
+Haidar – RPL Student @SMK Negeri 2 Indramayu
+"Coding is not just about writing code, it's about solving problems."
+
+If you find this project useful, give it a ⭐!
