@@ -36,47 +36,52 @@ Jika kamu ingin menjalankan atau mengembangkan proyek ini di komputermu:
 
 2.  **Masuk ke Folder:**
 
-    ````bash
+    ```bash
     cd inventaris-barang-laravel
-    ```
 
-    ````
+
+
+
+    ```
 
 3.  **Install Dependencies:**
 
-    ````bash
+    ```bash
     composer install
     npm install
     npm run dev
-    ```
 
-    ````
+
+
+
+    ```
 
 4.  **Masuk ke Folder:**
     Copy file .env.example ke .env dan sesuaikan database kamu:
 
-    ``bash
+    ````bash
     cp .env.example .env
     php artisan key:generate
 
-    ```
+
 
     ```
+
+    ````
 
 5.  **Migrate Database**
 
-    ``bash
+    ```bash
     php artisan migrate
 
-    ```
+
 
     ```
 
 6.  **Start Development Server**
 
-    ``bash
+    ```bash
     php artisan serve
 
-    ```
 
     ```
