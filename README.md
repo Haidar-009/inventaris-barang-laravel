@@ -83,6 +83,4 @@ Jika kamu ingin menjalankan atau mengembangkan proyek ini di komputermu:
 
 [ ] Integrasi Upload Foto Barang
 
-[ ] Dashboard Statistik (Chart)
-
 If you find this project useful, give it a ⭐!

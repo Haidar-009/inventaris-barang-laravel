@@ -3,7 +3,13 @@
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
             {{ __('Dashboard Inventaris Barang') }}
         </h2>
+        <div class="mb-4">
+            <a href="{{ route('dashboard') }}" class="text-blue-600 hover:underline">
+                ← Lihat Statistik Dashboard
+            </a>
+        </div>
     </x-slot>
+
 
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
